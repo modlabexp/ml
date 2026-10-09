@@ -1,0 +1,9 @@
+﻿Step,Algorithm
+1,Load the EnjoySport CSV dataset.
+2,Separate the input attributes and target labels.
+3,Initialize the specific hypothesis with the most specific values.
+4,Read each positive example and update the hypothesis.
+5,Replace mismatching attribute values with ? to generalize the hypothesis.
+6,Initialize the general hypothesis.
+7,Check negative examples and update the general hypothesis where attributes differ.
+8,Print the final Find-S hypothesis and the S and G boundaries.

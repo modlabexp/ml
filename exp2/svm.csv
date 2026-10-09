@@ -1,0 +1,9 @@
+Leaf_Color,Leaf_Size,Spots,Health
+1,8,0,Healthy
+2,7,1,Diseased
+1,9,0,Healthy
+3,6,1,Diseased
+2,8,0,Healthy
+3,5,1,Diseased
+1,7,0,Healthy
+3,7,1,Diseased

@@ -1,0 +1,9 @@
+﻿Step,Algorithm
+1,Import the required clustering and preprocessing libraries.
+2,Load diabetes.csv and select the medical features.
+3,Standardize the feature values.
+4,Set the number of clusters to two.
+5,Apply K-Means and obtain the cluster labels.
+6,Calculate and display the K-Means silhouette score.
+7,Apply Gaussian Mixture Model using the EM approach and obtain labels.
+8,Calculate and display the EM silhouette score to compare both methods.

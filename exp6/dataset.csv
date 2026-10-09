@@ -1,0 +1,9 @@
+﻿Step,Algorithm
+1,"Import KaggleHub, pandas, sparse matrix, and ALS libraries."
+2,Download the Book-Crossing dataset and load the ratings and books CSV files.
+3,"Keep only positive ratings and sample up to 10,000 rows."
+4,Encode user IDs and ISBN values as integer indices.
+5,Create a sparse user-book ratings matrix.
+6,Initialize and train the Alternating Least Squares model.
+7,Generate three recommendations for each of the first three users.
+8,Display each user ID and the recommended book titles.

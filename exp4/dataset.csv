@@ -1,0 +1,9 @@
+﻿Step,Algorithm
+1,"Import NumPy, the digits dataset, and Keras model libraries."
+2,Load the built-in handwritten digits dataset.
+3,Normalize pixel values by dividing them by 16.
+4,Split the data into training and testing sets.
+5,Create an ANN with two ReLU hidden layers and a softmax output layer.
+6,Compile the model with Adam and sparse categorical cross-entropy.
+7,Train the model for 20 epochs.
+8,Evaluate accuracy and display a predicted digit.

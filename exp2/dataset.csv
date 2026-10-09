@@ -1,0 +1,9 @@
+﻿Step,Algorithm
+1,Import pandas and the required SVM and evaluation libraries.
+2,Load svm.csv and separate features from class labels.
+3,Split the dataset into training and testing sets.
+4,Create an SVM classifier with a linear kernel.
+5,Train the classifier using the training data.
+6,Predict labels for the test data and calculate accuracy.
+7,Read new leaf-feature values from the user.
+8,Predict and display whether the leaf is Healthy or Diseased.

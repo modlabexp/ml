@@ -1,0 +1,9 @@
+﻿Step,Algorithm
+1,"Import the dataset, CNN, and evaluation libraries."
+2,Download Sign Language MNIST using KaggleHub.
+3,Load the training and testing CSV files.
+4,Reshape image pixels to 28 by 28 and normalize them.
+5,One-hot encode the labels for 25 classes.
+6,"Build and compile the CNN using convolution, pooling, flatten, and dense layers."
+7,Train for five epochs and evaluate test accuracy.
+8,Print the classification report for the test predictions.
